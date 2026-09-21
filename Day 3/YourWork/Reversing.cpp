@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 int main() {
-    vector<int> v = {10, 20, 30, 40, 50};
+    vector<int> v = {15, 16, 17, 18, 19};
     int n = v.size();
     for(int i = 0; i < n / 2; i++) {
         int temp = v[i];
